@@ -1,6 +1,7 @@
 Pages： https://judy-nihao.github.io/Hex-LayoutTraining-Week6/
   
 在 dev分支添加一些文字在此。
+在 已經合併過且重新指定 本地端main 對應至 上游 main 的文字。
 
 # 網頁切版直播班 Gulp 範例 - 加入 Bootstrap 版本
 
